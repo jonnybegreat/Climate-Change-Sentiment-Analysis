@@ -7,7 +7,7 @@ High-level description of the files present in this GitHub Repository:
 
 | File Name                    | Description                                                                                                   |
 | :--------------------------- | :------------------------------------------------------------------------------------------------------------ |
-| Team-6-Classification-Notebook.ipynb                 | Contains explorator data analysis and model selection for twitter sentiment analysis   |
+| Team-6-Classification-Notebook.ipynb                 | Contains exploratory data analysis and model selection for twitter sentiment analysis   |
 
 
 
