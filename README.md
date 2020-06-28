@@ -45,8 +45,8 @@ Create a Machine Learning model that is able to classify whether or not a person
 Provide an accurate and robust solution to this task in order to give companies access to a broad base of consumer sentiment, spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies.
 
 #### Contributors
-Karin Louw
-Kwande Skaap
-Jonathan Dankers
-Luvuyo Nkosana
+Karin Louw,
+Kwande Skaap,
+Jonathan Dankers,
+Luvuyo Nkosana,
 Wright Nyoka
